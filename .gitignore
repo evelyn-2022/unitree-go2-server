@@ -1,0 +1,17 @@
+venv/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.bak.*
+*.orig
+*.orig.*
+*.rej
+*.rej.*
+*~
+*.log
+*.tmp
+*.tmp.*
+unitree-go2-fcm.json
